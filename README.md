@@ -4,27 +4,27 @@ This is a Regression Problem
 
 Description
 
-# Variable                                       Definition
-User_ID                                          User ID 
 
-Product_ID                                       Product ID
+User_ID          :                                User ID 
 
-Gender                                           Sex of User
+Product_ID        :                                Product ID
 
-Age                            Age in bins
+Gender            :                                Sex of User
 
-Occupation                     Occupation of User
+Age               :              Age in bins
 
-City_Category                  Category of the City(A,B,C)
+Occupation         :             Occupation of User
 
-Stay_In_Current_City_Years     No: of years stay in current city
+City_Category      :             Category of the City(A,B,C)
 
-Marital_Status                 Marital Status
+Stay_In_Current_City_Years   :   No: of years stay in current city
 
-Product_Category_1             Product Category
+Marital_Status          :        Marital Status
 
-Product_Category_2             Product may belong to other category also
+Product_Category_1       :       Product Category
 
-Product_Category_3             Product may belong to other category also
+Product_Category_2       :       Product may belong to other category also
 
-Purchase                       Purchase Amount(Target)
+Product_Category_3       :       Product may belong to other category also
+
+Purchase                :        Purchase Amount(Target)
