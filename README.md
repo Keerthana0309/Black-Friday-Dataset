@@ -5,9 +5,12 @@ This is a Regression Problem
 Description
 
 # Variable                     Definition
-User_ID                        User ID
+User_ID                        User ID 
+
 Product_ID                     Product ID
+
 Gender                         Sex of User
+
 Age                            Age in bins
 Occupation                     Occupation of User
 City_Category                  Category of the City(A,B,C)
